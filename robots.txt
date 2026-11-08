@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jsbarsss-code.github.io/jsbars-calc/sitemap.xml
